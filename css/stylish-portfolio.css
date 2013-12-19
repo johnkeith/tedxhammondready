@@ -13,7 +13,9 @@ a:hover {
 }
 
 /* JSK EDITS */
-
+.little-headroom {
+  padding-top:20px;
+}
 .tedx-description {
   padding:50px 0 0 0;
 }
